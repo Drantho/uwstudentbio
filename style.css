@@ -1,0 +1,23 @@
+header{
+    background-color: #444444;
+    text-align: center;
+    color: white;
+    padding: 1px;
+}
+
+section{
+    display: inline-block;
+    width: 47%;
+    vertical-align: top;
+    padding: 25px;
+}
+
+img{
+    float: left;
+    width: 200px;
+    margin: 0 20px;
+}
+
+a{
+    color: red;
+}
